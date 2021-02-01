@@ -16,3 +16,5 @@ gradle 5.0+
 2、如果需要加表或者修改字段，修改mybatis-generator.xml,使用测试代码生成新的实体与mapper
 
 3、使用UmsApplication启动...
+
+4.此次更新为测试git使用
